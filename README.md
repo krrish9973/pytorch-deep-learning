@@ -15,7 +15,7 @@ A curated collection of PyTorch deep learning projects demonstrating computer vi
 - Steps:
   1. Train baseline CNN from scratch on 10% & 20% of Food101 data subsets.
   2. Transfer learning experiments with EfficientNetB0 & Vision Transformer (ViT).
-  3. Model comparison, evaluation, and deployed via [Gradio on Hugging Face Spaces](link).
+  3. Model comparison, evaluation, and deployed via [Gradio on Hugging Face Spaces](https://huggingface.co/spaces/krrishai/FoodVision-Mini-Demo).
 - Demonstrates data scaling, model selection, and deployment knowledge.
 
 ### 3. **ResNet50 Optimization with `torch.compile()` (Milestone Project 3)**
